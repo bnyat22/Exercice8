@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LesHorairesDeTrains</string>
+    <string name="tittle">Veuillez choisir le nom de deprat et arriver</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="search">Chercher</string>
+</resources>
